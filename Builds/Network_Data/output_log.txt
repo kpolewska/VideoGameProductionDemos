@@ -1,0 +1,78 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2200 (ID=0x13ba)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.13.5413
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.136 seconds
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x1200 60Hz; virtual: 1600x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.530672 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 2ad4 -> priority: 1 
+  Thread -> id: 28fc -> priority: 1 
+  Thread -> id: 1af0 -> priority: 1 
+  Thread -> id: 2b14 -> priority: 1 
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA Quadro K2200 (ID=0x13ba)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.13.5413
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Video Game Production Course examples\Builds\Network_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.026 seconds
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Video Game Production Course examples\Builds\Network_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x1200 60Hz; virtual: 1600x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.454036 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 13f8 -> priority: 1 
+  Thread -> id: 2764 -> priority: 1 
+  Thread -> id: 2948 -> priority: 1 
+  Thread -> id: 28bc -> priority: 1 
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Log: connection {1} has been disconnected by timeout; address {::ffff:127.0.0.1:7777}
+ClientDisconnected due to error: Timeout
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
