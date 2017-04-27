@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MyXMLObject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <nameOfElement>A name for the xml value of this element</nameOfElement>
+  <intElement>5</intElement>
+  <floatElement>5.05</floatElement>
+  <childElement>
+    <yetAnotherElementName>test</yetAnotherElementName>
+  </childElement>
+  <arrayElement>
+    <ArrayChild>
+      <elementName>abc</elementName>
+    </ArrayChild>
+    <ArrayChild>
+      <elementName>def</elementName>
+    </ArrayChild>
+    <ArrayChild>
+      <elementName>ghi</elementName>
+    </ArrayChild>
+    <ArrayChild>
+      <elementName>jkl</elementName>
+    </ArrayChild>
+    <ArrayChild>
+      <elementName>mno</elementName>
+    </ArrayChild>
+  </arrayElement>
+  <objectPos>
+    <xPos>0</xPos>
+    <yPos>0</yPos>
+    <zPos>0</zPos>
+  </objectPos>
+</MyXMLObject>
