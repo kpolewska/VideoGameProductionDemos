@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Ascript : MonoBehaviour {
 
+	Vector3 myPosition;
+	float name="Potaoeeee";
+
 	// Use this for initialization
 	void Start () {
 		
