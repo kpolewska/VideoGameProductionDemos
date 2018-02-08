@@ -5,8 +5,8 @@ using UnityEngine;
 public class Ascript : MonoBehaviour {
 
 	int number = 45;
-	float name= "bob";
-  float name2="Potaoeeee";
+	string name = "bob";
+	string name2 ="Potaoeeee";
 	Vector3 myPosition;
 	
 
