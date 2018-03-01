@@ -6,5 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/4 - Networking/Networking.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/- Examples/Scene Management/Scene Manager.unity
+    guid: 366a4a8b89cbacd4d83cadcc0263acf2
+  - enabled: 1
+    path: Assets/- Examples/Scene Management/Loading Screen.unity
+    guid: 6e4bdb20764c0de42af30c5bb0ae6537
+  - enabled: 1
+    path: Assets/- Examples/Scene Management/Level1/Level1_Layer1.unity
+    guid: 291c593b094782f41a24059354ff9ccb
+  - enabled: 1
+    path: Assets/- Examples/Scene Management/Level1/Level1_Layer2.unity
+    guid: d00218b06c5664245bf4d5f155fdafe5
+  - enabled: 1
+    path: Assets/- Examples/Scene Management/Level1/Level1_Layer3.unity
+    guid: 60505c36a0377c1409c78e35cbb857a8
