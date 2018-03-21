@@ -5,18 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/- Examples/Scene Management/Scene Manager.unity
     guid: 366a4a8b89cbacd4d83cadcc0263acf2
-  - enabled: 1
+  - enabled: 0
     path: Assets/- Examples/Scene Management/Loading Screen.unity
     guid: 6e4bdb20764c0de42af30c5bb0ae6537
-  - enabled: 1
-    path: Assets/- Examples/Scene Management/Level1/Level1_Layer1.unity
+  - enabled: 0
+    path: Assets/- Examples/Scene Management/Level1/Level1_LayerEnvironment.unity
     guid: 291c593b094782f41a24059354ff9ccb
-  - enabled: 1
-    path: Assets/- Examples/Scene Management/Level1/Level1_Layer2.unity
+  - enabled: 0
+    path: Assets/- Examples/Scene Management/Level1/Level1_LayerEnemies.unity
     guid: d00218b06c5664245bf4d5f155fdafe5
-  - enabled: 1
-    path: Assets/- Examples/Scene Management/Level1/Level1_Layer3.unity
+  - enabled: 0
+    path: Assets/- Examples/Scene Management/Level1/Level1_LayerPlayerInteraction.unity
     guid: 60505c36a0377c1409c78e35cbb857a8
+  - enabled: 1
+    path: Assets/- Examples/Networking/Networking.unity
+    guid: 96a00761b74e6044c91fe5fb88135379
